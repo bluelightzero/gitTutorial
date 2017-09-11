@@ -13,8 +13,10 @@
 
 /* Lunch */
 
+	Chicken Sub - £6.00
 	
-
+	Ham Salad - £4.00
+	
 /* Meals */
 
 	
@@ -22,3 +24,4 @@
 /* Desert */
 
 	Icecream - 40inr
+
