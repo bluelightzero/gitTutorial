@@ -5,7 +5,11 @@
 
 /* Breakfast */
 
+	English Breakfast - £4.99
 	
+	Unlimted Cereal and Fruit - £2.49
+
+	Breakfast Roll - £4.00
 
 /* Lunch */
 
